@@ -1,1 +1,1 @@
-Movie recommendation system it recommends you based on your saerch and watch history.
+Movie recommendation system, it recommends you  movies based on your search and watch history.
